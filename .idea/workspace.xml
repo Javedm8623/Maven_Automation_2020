@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bd1501b-1f25-453b-bc43-47130f1506a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XZoe9gjWRuwwqJkuhvFgIshIdn" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zee629\Desktop\Maven_Project 2020\src\test\java\Cucumber\Feature" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Day12_Selenium" />
+      <recent name="Extent_Reports" />
+      <recent name="ActionItem" />
+      <recent name="ActionItem_WW" />
+      <recent name="Reusable_Library" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zee629\Desktop\Maven_Project 2020\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.executableClass">
+    <configuration name="executableClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cucumber.Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Cucumber.Runner" />
+      <option name="MAIN_CLASS_NAME" value="Cucumber.Runner.executableClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Zee629/Desktop/Maven_Project 2020/src/test/java/ActionItem/smoketest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/ActionItem/smoketest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleSearch_Abstract.googleSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day12_Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day12_Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Day12_Selenium.GoogleSearch_Abstract" />
+      <option name="METHOD_NAME" value="googleSearch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Yahoo_Signin.usps" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day12_Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day12_Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Day12_Selenium.Yahoo_Signin" />
+      <option name="METHOD_NAME" value="usps" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Yahoo_boolean.usps" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day12_Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day12_Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Day12_Selenium.Yahoo_boolean" />
+      <option name="METHOD_NAME" value="usps" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.executableClass" />
+        <item itemvalue="TestNG.C:/Users/Zee629/Desktop/Maven_Project 2020/src/test/java/ActionItem/smoketest.xml" />
+        <item itemvalue="TestNG.GoogleSearch_Abstract.googleSearch" />
+        <item itemvalue="TestNG.Yahoo_Signin.usps" />
+        <item itemvalue="TestNG.Yahoo_boolean.usps" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bd1501b-1f25-453b-bc43-47130f1506a8" name="Default Changelist" comment="" />
+      <created>1581263069703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581263069703</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#Project_Structure" timestamp="1581265866131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1581265866131" />
+    <state x="429" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582990125070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="429" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1582990125070" />
+    <state x="344" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582398107349">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="344" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1582398107349" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582394985158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582394985158" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583002201208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583002201208" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583002201207">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583002201207" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583002201207">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583002201207" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583002201208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583002201208" />
+    <state x="213" y="23" key="Maven.ArtifactSearchDialog" timestamp="1582391767394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="23" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1582391767394" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1582475235830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582475235830" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1582204201723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582204201723" />
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1583001317181">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1583001317181" />
+  </component>
+</project>
